@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://i63.tinypic.com/zyjch.jpg");
+}
+#get-joke {
+  border-radius: 6px;
+  border-radius: 6px;
+  padding: 10px 60px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  background-color: #2CBFA4;
+  border-color: #2CBFA4;
+  margin-top: 30px;
+  margin-left: 150px;
+}
+#joke {
+  color: #9F500D;
+  font-size: 22px;
+  font-weight: bold;
+}
